@@ -23,10 +23,10 @@ The test will be running on the Chrome Browser.
 Make sure you use an accurate *Chrome Driver* that matches your *Chrome Browser* version.
 
 
-#####Location of the driver files:
+###Location of the driver files:
 `src/test/resources/webdriver`
 
-#####The Browser used can be changed from:
+###The Browser used can be changed from:
 `src/test/resources/serenity.conf`
 
 
