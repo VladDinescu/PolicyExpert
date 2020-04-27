@@ -10,13 +10,9 @@ Due to personal time consuming circumstances (I could only study and work for th
  yet it achieves its purpose of completing the form and attempts to do so using some SOLID principles.
 
 This has been quite the fun experience for me!
-
 I Managed to learn about and implement in a new more efficient and cleaner way of developing front end tests!
 
 Thank you Vangelisz for this challenge and great learning opportunity! 
-
-Enjoy!
-
 
 ## Mentions
 The test will be running on the Chrome Browser.
