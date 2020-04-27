@@ -31,7 +31,7 @@ The Browser used can be changed from:
 
 Open a command window and run:
 
-    gradlew test 
+    gradlew 
     
 Using the windows cmd.
 
