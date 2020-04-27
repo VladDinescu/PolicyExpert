@@ -13,7 +13,7 @@ This has been quite the fun experience for me!
 
 I Managed to learn about and implement in a new more efficient and cleaner way of developing front end tests!
 
-I thank you, Vangelisz, for this challenge and great learning opportunity! 
+Thank you Vangelisz for this challenge and great learning opportunity! 
 
 Enjoy!
 
