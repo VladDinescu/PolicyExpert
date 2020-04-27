@@ -1,20 +1,22 @@
-# Serenity JUnit Starter project
+# PolicyExpert Test
 
 
-This is the simplest possible build script setup for Serenity BDD using Java. 
+This is a framework built using the [Serenity Junit Starter](https://github.com/serenity-bdd/serenity-junit-starter.git)
+skeleton as a base. 
 
-This is a very minimal sample project using JUnit and Serenity BDD in Java. 
-You can use this project as a quick starting point for your own projects.
-
-## Get the code
-
-Git:
-
-    git clone https://github.com/serenity-bdd/serenity-junit-starter.git
-    cd serenity-junit-starter
+The decision was made based on Serenity's library power to easily facilitate the implementation of the Screenplay
+ pattern.
+ 
+An 
 
 
-Or simply [download a zip](https://github.com/serenity-bdd/serenity-junit-starter/archive/master.zip) file.
+## Use Gradle
+
+Open a command window and run:
+
+    gradlew test 
+    
+Using the windows cmd.
 
 ## Use Maven
 
@@ -22,14 +24,13 @@ Open a command window and run:
 
     mvn clean verify
 
-## Use Gradle
-
-Open a command window and run:
-
-    gradlew test 
-
+Using the windows cmd.
 
 ## Viewing the reports
 
-Both of the commands provided above will produce a Serenity test report in the `target/site/serenity` directory. Go take a look!
+Both of the commands provided above will produce a Serenity test report in the `target/site/serenity` directory.
+
+Go take a look!
+
+It should be the .html file inside the serenity folder.
 

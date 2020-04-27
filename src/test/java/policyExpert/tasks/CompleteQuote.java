@@ -25,9 +25,6 @@ public class CompleteQuote extends UIInteractionSteps implements Task {
         else return negativeOption;
     }
 
-
-
-
     @Override
     @Step("Completes form as: {0}")
     public <T extends Actor> void performAs(T actor) {
