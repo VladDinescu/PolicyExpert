@@ -2,12 +2,16 @@ package policyExpert.features;
 
 
 import net.serenitybdd.junit.runners.SerenityRunner;
+import net.serenitybdd.screenplay.Actor;
 import net.thucydides.core.annotations.Managed;
 import net.thucydides.core.annotations.Steps;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
+
+import static net.serenitybdd.screenplay.GivenWhenThen.givenThat;
+import static net.serenitybdd.screenplay.GivenWhenThen.when;
 
 @RunWith(SerenityRunner.class)
 public class WhenCreatingQuote {

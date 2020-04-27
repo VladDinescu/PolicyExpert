@@ -25,7 +25,7 @@ targetCompatibility = 1.8
 
 ext {
     slf4jVersion = '1.7.7'
-    serenityCoreVersion = '2.0.91'
+    serenityCoreVersion = '2.2.0'
     junitVersion = '4.12'
     assertJVersion = '3.8.0'
     logbackVersion = '1.2.3'
@@ -35,9 +35,11 @@ dependencies {
     compile "ch.qos.logback:logback-classic:${logbackVersion}"
 
     testCompile "net.serenity-bdd:serenity-core:${serenityCoreVersion}",
-                "net.serenity-bdd:serenity-junit:${serenityCoreVersion}",
-                "junit:junit:${junitVersion}",
-                "org.assertj:assertj-core:${assertJVersion}"
+            "net.serenity-bdd:serenity-junit:${serenityCoreVersion}",
+            "net.serenity-bdd:serenity-screenplay:${serenityCoreVersion}",
+            "net.serenity-bdd:serenity-screenplay-webdriver:${serenityCoreVersion}",
+            "junit:junit:${junitVersion}",
+            "org.assertj:assertj-core:${assertJVersion}"
 }
 
 test {
