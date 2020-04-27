@@ -3,7 +3,7 @@
 This is a framework built using the [Serenity Junit Starter](https://github.com/serenity-bdd/serenity-junit-starter.git)
 skeleton as a base. 
 
-The decision was made based on Serenity's library power to easily facilitate the implementation of the Screenplay
+The decision was made based on the Serenity library's ability to easily facilitate the implementation of the Screenplay
  pattern.
  
 Due to personal time consuming circumstances (I could only study and work for this during the weekends) this version still has some room for improvement, yet it does it's job of completing the form and attempts to do so using
