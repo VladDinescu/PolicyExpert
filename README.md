@@ -10,8 +10,8 @@ Due to personal time consuming circumstances (I could only study and work for th
 some SOLID principles.
 
 This has been quite the fun experience for me!
-Managed to learn a new way of developing front end tests, and make it so in a more elegant and efficient fashion.
-I thank you Vangelisz for this great learning opportunity! 
+Managed to learn about and implement in a new more efficient and cleaner way of developing front end tests!
+I thank you Vangelisz for this challenge and great learning opportunity! 
 
 Enjoy!
 
