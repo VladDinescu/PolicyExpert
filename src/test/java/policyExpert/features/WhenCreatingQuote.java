@@ -9,6 +9,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
+import policyExpert.abilities.CreateQuote;
 import policyExpert.tasks.CompleteQuote;
 import policyExpert.tasks.NavigateTo;
 
